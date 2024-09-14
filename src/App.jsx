@@ -3,7 +3,7 @@ import { DarkModeProvider } from './components/DarkModeContext'
 import Header from './components/Header'
 import Hero from './Sections/Hero'
 import About from './Sections/About'
-import Popular from './Sections/Popular'
+import PopularAreas from './Sections/PopularAreas'
 import Properties from './Sections/Properties'
 import Services from './Sections/Services'
 import Clients from './Sections/Clients'
@@ -19,7 +19,7 @@ const App = () => {
       <Header/>
       <Hero/>
       <About/>
-      <Popular/>
+      <PopularAreas/>
       <Properties/>
       <Services/>
       <Clients/>
