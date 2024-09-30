@@ -1,1 +1,1 @@
-web site :> https://vishalx33.github.io/Real-estate/
+web site :> https://real-estate-mu-drab.vercel.app/
