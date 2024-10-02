@@ -31,8 +31,8 @@ const Contact = () => {
         </div>
         <div className='flex flex-col justify-center items-start gap-8 lg:p-20 p-6  ' >
           <div data-aos='zoom-in' data-aos-delay='200' className='text-red-500 dark:text-white' >REACH US</div>
-          <h1 data-aos='zoom-in' data-aos-delay='400' className='text-black text-[40px] font-semibold leading-10 dark:text-white '>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br></br>  </h1>
-          <p data-aos='zoom-in' data-aos-delay='800'  className='text-xl text-justify text-gray-600 dark:text-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat dolorum veritatis obcaecati neque itaque, in quod sequi nemo sit alias repellendus, hic dignissimos amet vel? Et illo totam sunt nobis.</p>
+          <h1 data-aos='zoom-in' data-aos-delay='400' className='text-black text-[40px] font-semibold leading-10 dark:text-white '>AT Home Real-Estate <br></br>  </h1>
+          <p data-aos='zoom-in' data-aos-delay='800'  className='text-xl text-justify text-gray-600 dark:text-white'>we believe that finding a home is more than just a transaction—it's a journey toward building your future. With years of expertise in the real estate market, we are committed to offering personalized, transparent, and professional service to each of our clients. Whether you're buying, selling, or investing, our goal is to match you with properties that reflect your lifestyle and needs. We pride ourselves on creating lasting relationships and ensuring a seamless experience from start to finish.</p>
           <button className='bg-red-600  text-md px-8 py-3 text-white font-semibold rounded-xl hover:bg-black dark:hover:bg-red-700 cursor-pointer '>SEND EMAIL</button>
 
         </div>

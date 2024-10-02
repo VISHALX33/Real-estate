@@ -35,18 +35,18 @@ const PopularAreas = () => {
        </div>
 <div id='bottom' className='w-full grid lg:grid-cols-3 grid-cols-1 lg:justify-center items-center gap-6'>
   <div data-aos="slide-up" data-aos-delay="200"  className='flex justify-center gap-8 w-full' >
-    <h1 className='text-black text-7xl font-semibold dark:text-white' >5k</h1>
-    <h1 className='text-white'>ACTIVE <br></br>LISTING</h1>
+    <h1 className='text-black text-7xl font-semibold dark:text-white' >100+</h1>
+    <h1 className='text-gray-500 text-3xl'>Specialized <br></br>delers</h1>
 
   </div>
   <div data-aos="slide-up" data-aos-delay="200"  className='flex justify-center gap-8 w-full' >
     <h1 className='text-black text-7xl font-semibold dark:text-white' >5k</h1>
-    <h1 className='text-white'>ACTIVE <br></br>LISTING</h1>
+    <h1 className='text-gray-500 text-3xl'>Happy <br></br>Clients</h1>
 
   </div>
   <div data-aos="slide-up" data-aos-delay="200"  className='flex justify-center gap-8 w-full' >
-    <h1 className='text-black text-7xl font-semibold dark:text-white' >5k</h1>
-    <h1 className='text-white'>ACTIVE <br></br>LISTING</h1>
+    <h1 className='text-black text-7xl font-semibold dark:text-white' >30 min</h1>
+    <h1 className='text-gray-500 text-3xl'>Response <br></br>Time</h1>
 
   </div>
 </div>

@@ -23,7 +23,7 @@ const Hero = () => {
        bg-center rounded-xl flex justify-center flex-col items-start lg:px-28 px-18 gap-7 z-20 '
           style={{ backgroundImage: `url(${heroimg})` }} >
           <h1 data-aos="zoom-in" className='text-6xl text-white font-semibold lg:pr-[500px] pr-0 lg:leading-[70px] leading-[60px]' >Find your next Home in Las Vegas</h1>
-          <p data-aos="zoom in" className='text-white text-xl lg:pr-[500px]'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut omnis aspernatur quam consequuntur sequi nam veritatis fuga voluptatibus adipisci? Architecto rem eligendi neque quibusdam omnis ratione cum beatae totam veniam!</p>
+          <p data-aos="zoom in" className='text-white text-xl lg:pr-[500px]'>Discover the perfect property that matches your lifestyle, whether it's a modern city apartment or a serene countryside home. Explore a world of possibilities with expert guidance every step of the way.</p>
 
         </section>
       </div>

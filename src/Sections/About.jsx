@@ -23,8 +23,9 @@ const About = () => {
       </div>
       <div className='flex flex-col justify-center items-start gap-8'>
         <h1 date-aos="zoom-in" className='text-red-500 dark:text-white' >Who We Are</h1>
-        <h1 date-aos="zoom-in" data-aos-delay="200"  className='text-black teext-[40px] font-semibold leading-10 dark:text-white' >Lorem ipsum, dolor sit amet consectetur</h1>
-        <p date-aos="zoom-in" data-aos-delay="400" className='text-xl text-gray-600 dark:text-white text-justify ' >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos odio autem laborum tempora, temporibus eius cumque repellendus officiis quidem eveniet ad. Culpa non recusandae quaerat eius fugiat labore saepe corrupti.</p>
+        <h1 data-aos='zoom-in' data-aos-delay='400' className='text-black text-[40px] font-semibold leading-10 dark:text-white '>AT Home Real-Estate <br></br>  </h1>
+        
+        <p date-aos="zoom-in" data-aos-delay="400" className='text-xl text-gray-600 dark:text-white text-justify ' > we believe that finding a home is more than just a transaction—it's a journey toward building your future. With years of expertise in the real estate market, we are committed to offering personalized, transparent, and professional service to each of our clients. Whether you're buying, selling, or investing, our goal is to match you with properties that reflect your lifestyle and needs. We pride ourselves on creating lasting relationships and ensuring a seamless experience from start to finish.</p>
         <button className='bg-red-600 dark:bg-red-700 hover:bg-black dark:hover:bg-white dark:hover:text-black text-lg p-4  text-white font-semibold rounded-xl cursor-pointer transform hover:scale-110 transition-transform duration-300  ' > READ MORE</button>
 
 
